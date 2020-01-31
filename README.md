@@ -4,7 +4,7 @@ JavaScript is a language with a long history with no way to escape.  People have
 
 As more and more services move to the web, and JS gains popularity as a backend language, it's necessary for JavaScript to grow as a language. But [unlike python](https://www.quora.com/Is-there-a-solution-to-the-annoying-Python-version-problem) which is maintained independently, JavaScript doesn't have a centralized control and can't simply drop old features or redesign itself.
 
-So, _strict mode_.  Strict mode effectively turns any code below itself into "JavaScript 2.0", enforcing new features and good practices while throwing errors when you try to use insecure features or bad practice.
+So, _strict mode_.  `'use strict'` effectively turns any code below itself into "JavaScript 2.0", enforcing new features and good practices while throwing errors when you try to use insecure features or bad practice.
 
 
 > PythonTutor uses strict mode by default, there is no way to run ["sloppy mode" snippets](https://goo.gl/Exfmh8) in pytut.  For this reason you will have to use repl.it or the devtools to explore the differences between sloppy mode and strict mode.
