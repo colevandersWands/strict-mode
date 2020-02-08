@@ -7,7 +7,7 @@ As more and more services move to the web, and JS gains popularity as a backend 
 So, _strict mode_.  `'use strict'` effectively turns any code below itself into "JavaScript 2.0", enforcing new features and good practices while throwing errors when you try to use insecure features or bad practice.
 
 
-> PythonTutor uses strict mode by default, there is no way to run ["sloppy mode" snippets](https://goo.gl/Exfmh8) in pytut.  For this reason you will have to use repl.it or the devtools to explore the differences between sloppy mode and strict mode.
+> JS Tutor uses strict mode by default, there is no way to run ["sloppy mode" snippets](https://goo.gl/Exfmh8) in pytut.  For this reason you will have to use repl.it or the devtools to explore the differences between sloppy mode and strict mode.
 
 
 ### Index
